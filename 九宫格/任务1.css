@@ -1,0 +1,14 @@
+.wrap{
+    text-align: center;
+    background-color: #ffffff;
+    overflow: hidden;
+}
+
+.wrap>div{
+    width: 31%;
+    padding-bottom: 31%;
+    margin: 1%;
+    border-radius: 10%;
+    float: left;
+    background-color: orange;
+}
